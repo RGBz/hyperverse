@@ -16,7 +16,7 @@ The metaverse should be the same way.
 ## How?
 Web developers would use a new, Hyperverse Markup Language (HVML) to describe VR environments made up of interactable **objects** including images, videos, music, web pages and links to other web places. Each of these can be picked up,  moved around, placed, stretched or interacted with.
 
-A lot of the technology necessary is already in place on the web, we just need a new type of content, `text/hvml`, to describe VR environments and an expanded browser that can render them.
+A lot of the technology necessary is already in place on the web, we just need a new type of content, [`text/hvml`](example.hvml), to describe VR environments and an expanded browser that can render them.
 
 The **hyperlink**, the web's most powerful metaphor democratizes the web and ensures no one power owns it. In the hyperverse you'd be able to link to any kind of content and interact with it in VR.
 
